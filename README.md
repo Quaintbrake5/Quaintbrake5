@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quaintbrake5
 - 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C, TypeScript...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Whatsapp, Instagram or on Discord
 - 😄 Pronouns: He/Him
