@@ -5,7 +5,7 @@
 - 📫 How to reach me: Whatsapp, Instagram, Discord, and Snapchat (Preferrably Whatsapp, Instagram or Snapchat)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-- ✌️ My favourite languages for front-end web development is React (via Vite framework) and for backend web development, ExpressJS (using Typescript) and Springboot (Java)
+- ✌️ My favourite languages for front-end web development is React (via Vite framework) and for backend web development, ExpressJS (using Typescript) and Python (FastAPI)
 
 <!---
 Quaintbrake5/Quaintbrake5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
