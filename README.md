@@ -11,7 +11,7 @@ A forward-thinking systems engineer specializing in **spec-driven architecture**
 ### 📊 Full-Stack Software Engineering
 *   **Frontend Architecture:** Advanced development using **TypeScript / JavaScript (ES6+)**, **React (via Vite framework)**, and **HTML5 & CSS3**. Focused on creating highly responsive, semantic, and component-driven user interfaces.
 *   **Backend & API Engineering:** Architecting secure, high-performance server environments using **Python (FastAPI)**. Skilled in route optimization, middleware execution, and robust payload validation.
-*   **Database Systems:** Designing relational data models, schema optimization, and structured data querying using **PostgreSQL**, **MongoDB** .
+*   **Database Systems:** Designing relational data models, schema optimization, and structured data querying using **PostgreSQL** and **MongoDB**.
 
 ### 🤖 Intelligent Systems & Orchestration
 *   **Agentic Engineering:** Designing and implementing multi-agent AI workflows, structured prompt engineering for code synthesis, and automated Product Requirement Document (PRD) translation.
@@ -45,6 +45,6 @@ A forward-thinking systems engineer specializing in **spec-driven architecture**
 
 ## 🌐 Professional Connectivity
 
-*   **Professional Channels:** https://www.linkedin.com/in/denzyl-ibe-a2b509285/
-*   **Direct Inquiries:** denzylibe6@gmail.com or denzylibe04@gmail.com
-*   **Instant Communication:** WhatsApp | Instagram 
+*   **Professional Channels:** [LinkedIn Profile](https://www.linkedin.com/in/denzyl-ibe-a2b509285/)
+*   **Direct Inquiries:** [denzylibe6@gmail.com](mailto:denzylibe6@gmail.com) | [denzylibe04@gmail.com](mailto:denzylibe04@gmail.com)
+*   **Instant Communication:** WhatsApp | Instagram
