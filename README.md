@@ -9,9 +9,33 @@ A forward-thinking systems engineer specializing in **spec-driven architecture**
 ## 🛠️ Technical Competencies & Language Proficiency
 
 ### 📊 Full-Stack Software Engineering
-*   **Frontend Architecture:** Advanced development using **TypeScript / JavaScript (ES6+)**, **React (via Vite framework)**, and **HTML5 & CSS3**. Focused on creating highly responsive, semantic, and component-driven user interfaces.
-*   **Backend & API Engineering:** Architecting secure, high-performance server environments using **Python (FastAPI)**. Skilled in route optimization, middleware execution, and robust payload validation.
-*   **Database Systems:** Designing relational data models, schema optimization, and structured data querying using **PostgreSQL** and **MongoDB**.
+
+<!-- FRONTEND ARCHITECTURE -->
+#### 💻 Frontend Architecture
+Advanced development focused on creating highly responsive, semantic, and component-driven user interfaces.
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="55" height="55" />
+</p>
+
+<!-- BACKEND & API ENGINEERING -->
+#### ⚙️ Backend & API Engineering
+Architecting secure, high-performance server environments, route optimization, and robust middleware execution.
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/fastapi-icon.svg" alt="FastAPI" width="55" height="55" />
+</p>
+
+<!-- DATABASE SYSTEMS -->
+#### 🗄️ Database Systems
+Designing relational and document-based data models, schema optimization, and structured querying.
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="55" height="55" />
+</p>
 
 ### 🤖 Intelligent Systems & Orchestration
 *   **Agentic Engineering:** Designing and implementing multi-agent AI workflows, structured prompt engineering for code synthesis, and automated Product Requirement Document (PRD) translation.
