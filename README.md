@@ -35,13 +35,25 @@ A forward-thinking systems engineer specializing in **spec-driven architecture**
 ## 📈 System Metrics & Insights
 
 *(Balancing rigorous academic technical programs with active industrial enterprise software implementation.)*
+┌────────────────────────────────────────────────────────────────────────┐
+│  SYSTEM TELEMETRY & PRODUCTION METRICS                                 │
+├────────────────────────────────────────────────────────────────────────┤
+│  • Deployment Status  : Active                                         │
+│  • Workflow Engine    : Spec-Driven / Agentic Architecture             │
+│  • Primary Backend    : Python (FastAPI)                               │
+│  • Primary Frontend   : React (Vite / TypeScript)                      │
+│  • Database Cluster   : PostgreSQL + MongoDB                           │
+│  • Execution Focus    : Full-Stack Systems / Local AI Orchestration    │
+└────────────────────────────────────────────────────────────────────────┘
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quaintbrake5&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Denzyl's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quaintbrake5&layout=compact&theme=dark&langs_count=6" alt="Denzyl's Top Languages" height="150" />
-</p>
+
+| Metric | Status / Target | Optimization |
+| :--- | :--- | :--- |
+| **Commit Velocity** | 🟢 High Activity | Direct main/feature branch optimization |
+| **Code Architecture** | Spec-Driven | Eliminating architectural drift via high-fidelity PRDs |
+| **System Integration** | Local + Cloud | Microservice orchestration & localized model testing |
+
 ---
-
 ## 🌐 Professional Connectivity
 
 *   **Professional Channels:** [LinkedIn Profile](https://www.linkedin.com/in/denzyl-ibe-a2b509285/)
