@@ -38,25 +38,42 @@ Developing specialized machine learning pipelines, tensor computations, and auto
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="ML Frameworks" />
 </p>
 
-#### 🔌 Model Orchestration & LLM Environments
-Configuring contextual token windows, localized inferencing, and multi-agent execution engines.
+#### 🔌 Model Orchestration, Spaces & LLM Environments
+Configuring contextual token windows, localized inferencing, open-weights model hosting, and multi-agent execution engines.
 <p align="left">
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Google_Gemini-9E5CFF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face" />
 </p>
 
 ---
 
-### ⚙️ Systems, Version Control & Environments
+### ⚙️ Cloud Deployments, Testing & Infrastructure
 
-#### 🛠️ Distributed Engineering Infrastructure
+#### 🚀 Cloud Infrastructure & Production Hosting
+Deploying scalable frontends, serverless edge architectures, background workers, and persistent server tiers.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Edge Deployments" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
+
+#### 🧪 API Documentation & Quality Assurance
+Designing strict architectural contracts, endpoint schema validation, and running end-to-end testing verification suites.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+#### 🛠️ Distributed Control & Workspace Environments
 Managing secure repositories, version branches, custom workflows, and unified developer environments.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Core Infrastructure" />
   <img src="https://img.shields.io/badge/Kilo_Code-1A1A2E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Kilo Code" />
   <img src="https://img.shields.io/badge/Opencode-24292E?style=for-the-badge&logo=githubactions&logoColor=white" alt="Opencode" />
 </p>
+
+---
 
 ### 🤖 Intelligent Systems & Orchestration
 *   **Agentic Engineering:** Designing and implementing multi-agent AI workflows, structured prompt engineering for code synthesis, and automated Product Requirement Document (PRD) translation.
