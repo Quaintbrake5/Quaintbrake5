@@ -23,9 +23,9 @@ Architecting secure, asynchronous server runtimes, high-performance microservice
 </p>
 
 #### 🗄️ Database Clusters & Systems
-Designing relational data models and document-based storage systems optimized for high availability.
+Designing relational data models, document-based storage systems, and high-performance in-memory caching layers optimized for low latency.
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Database Stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Database Stack" />
 </p>
 
 ---
