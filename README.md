@@ -37,8 +37,8 @@ A forward-thinking systems engineer specializing in **spec-driven architecture**
 *(Balancing rigorous academic technical programs with active industrial enterprise software implementation.)*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quaintbrake5&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-maps.vercel.app/api/top-langs/?username=Quaintbrake5&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quaintbrake5&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Denzyl's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quaintbrake5&layout=compact&theme=dark&langs_count=6" alt="Denzyl's Top Languages" height="150" />
 </p>
 ---
 
