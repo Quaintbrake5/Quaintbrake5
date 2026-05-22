@@ -11,7 +11,7 @@ A forward-thinking systems engineer specializing in **spec-driven architecture**
 ### 📊 Full-Stack Software Engineering
 *   **Frontend Architecture:** Advanced development using **TypeScript / JavaScript (ES6+)**, **React (via Vite framework)**, and **HTML5 & CSS3**. Focused on creating highly responsive, semantic, and component-driven user interfaces.
 *   **Backend & API Engineering:** Architecting secure, high-performance server environments using **ExpressJS (TypeScript)** and **Python (FastAPI)**. Skilled in route optimization, middleware execution, and robust payload validation.
-*   **Database Systems:** Designing relational data models, schema optimization, and structured data querying using **SQL**.
+*   **Database Systems:** Designing relational data models, schema optimization, and structured data querying using **PostgreSQL**, **MongoDB** .
 
 ### 🤖 Intelligent Systems & Orchestration
 *   **Agentic Engineering:** Designing and implementing multi-agent AI workflows, structured prompt engineering for code synthesis, and automated Product Requirement Document (PRD) translation.
