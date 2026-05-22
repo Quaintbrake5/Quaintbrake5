@@ -45,6 +45,6 @@ A forward-thinking systems engineer specializing in **spec-driven architecture**
 
 ## 🌐 Professional Connectivity
 
-*   **Professional Channels:** [Insert LinkedIn Profile Link]
+*   **Professional Channels:** https://www.linkedin.com/in/denzyl-ibe-a2b509285/
 *   **Direct Inquiries:** denzylibe6@gmail.com or denzylibe04@gmail.com
 *   **Instant Communication:** WhatsApp | Instagram 
